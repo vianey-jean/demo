@@ -1,0 +1,17 @@
+#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+	height : 600px;
+	margin-top: -2%;
+}
+
+#h4ListeVille{
+	text-align: center;
+}
+
+.jumbotron{
+	text-align: center;
+	
+}
+
+.lead{
+	text-align: center;
+}
